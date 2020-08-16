@@ -1,0 +1,20 @@
+<resources>
+<string name="app_name">Portefeuille De Compétences</string>
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="nav_header_title">Renaud Barrios</string>
+<string name="nav_header_subtitle">renaud.barrios@gmail.com</string>
+<string name="nav_header_desc">Navigation header</string>
+<string name="action_settings">Settings</string>
+\n<string name="presentation">MON PARCOURS.\n
+Bienvenu(e) sur mon portfolio !\nJe m’appelle Renaud BARRIOS ,et est étudiant en deuxième année de BTS SIO.\nCe site va me servir de support pour l’épreuve E6.\nCette épreuve consiste à présenter son parcours professionnel en présentant un portefeuille de compétences devant un jury.\nVous pouvez retrouver les différentes activités que j’ai réalisé au cours de mon année de BTS SIO en naviguant dans le menu horizontale ci-dessus.\nJe mets également à disposition les documentations et rapports que j’ai réalisé pour les étudiants de BTS SIO.\nL’entraide est fondamentale dans le milieu informatique, c’est pourquoi je souhaite partager mes connaissances. Bonne visite ! </string>
+<string name="presentation_stage1">Stage réalisé dans la société Alag\'Info\n pendant le stage de première année,les tâches à accomplir ont été les suivantes :\n -Création d\'un site internet WebDev\n -Création d\'une application mobile de Quizz</string>
+<string name="presentation_stage2">Stage réalisé dans la société Diogo Emmanuel Garra Carramona\n-Auto-Entrepreneur</string>
+<string name="presentation_ppe1">Ppe réalisé </string>
+<string name="presentation_ppe2">Ppe réalisé</string>
+<string name="activité_stage2">-Apprentissage de l\'utilisation d\'Android Studio\n-Apprentissage du langage de programmation Kotlin \n-Developpement Google Map pour application mobile/tablette Android\n-Gestion de Base De Données locale pour application mobile/tablette Android</string>
+<string name="apports_stage2"></string>
+<string name="curriculum_vitae">Curriculum Vitae</string>
+<string name="stage_n_1">Stage n°1</string>
+
+</resources>
